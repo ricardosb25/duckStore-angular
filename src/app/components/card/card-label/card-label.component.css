@@ -1,0 +1,21 @@
+.card-label__container{
+	position: absolute;
+	bottom: 90px;
+	right: 0;
+}
+
+.card-label__content{
+	display: flex;
+	align-items: center;
+	background-color: rgba(60, 60, 60, 0.4);
+	color: snow;
+	font-size: 12px;
+	font-family: Calibri;
+	font-weight: bold;
+	height: 40px;
+	padding: 0px 50px;
+}
+
+.card-label__content > p{
+	color: snow;
+}
